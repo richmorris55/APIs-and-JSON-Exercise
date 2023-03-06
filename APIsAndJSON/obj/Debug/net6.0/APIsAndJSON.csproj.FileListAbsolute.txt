@@ -1,0 +1,17 @@
+/Users/richardmorris/Desktop/Repos/APIs-and-JSON-Exercise/APIsAndJSON/bin/Debug/net6.0/APIsAndJSON
+/Users/richardmorris/Desktop/Repos/APIs-and-JSON-Exercise/APIsAndJSON/bin/Debug/net6.0/APIsAndJSON.deps.json
+/Users/richardmorris/Desktop/Repos/APIs-and-JSON-Exercise/APIsAndJSON/bin/Debug/net6.0/APIsAndJSON.runtimeconfig.json
+/Users/richardmorris/Desktop/Repos/APIs-and-JSON-Exercise/APIsAndJSON/bin/Debug/net6.0/APIsAndJSON.dll
+/Users/richardmorris/Desktop/Repos/APIs-and-JSON-Exercise/APIsAndJSON/bin/Debug/net6.0/APIsAndJSON.pdb
+/Users/richardmorris/Desktop/Repos/APIs-and-JSON-Exercise/APIsAndJSON/bin/Debug/net6.0/Newtonsoft.Json.dll
+/Users/richardmorris/Desktop/Repos/APIs-and-JSON-Exercise/APIsAndJSON/obj/Debug/net6.0/APIsAndJSON.csproj.AssemblyReference.cache
+/Users/richardmorris/Desktop/Repos/APIs-and-JSON-Exercise/APIsAndJSON/obj/Debug/net6.0/APIsAndJSON.GeneratedMSBuildEditorConfig.editorconfig
+/Users/richardmorris/Desktop/Repos/APIs-and-JSON-Exercise/APIsAndJSON/obj/Debug/net6.0/APIsAndJSON.AssemblyInfoInputs.cache
+/Users/richardmorris/Desktop/Repos/APIs-and-JSON-Exercise/APIsAndJSON/obj/Debug/net6.0/APIsAndJSON.AssemblyInfo.cs
+/Users/richardmorris/Desktop/Repos/APIs-and-JSON-Exercise/APIsAndJSON/obj/Debug/net6.0/APIsAndJSON.csproj.CoreCompileInputs.cache
+/Users/richardmorris/Desktop/Repos/APIs-and-JSON-Exercise/APIsAndJSON/obj/Debug/net6.0/APIsAndJSON.csproj.CopyComplete
+/Users/richardmorris/Desktop/Repos/APIs-and-JSON-Exercise/APIsAndJSON/obj/Debug/net6.0/APIsAndJSON.dll
+/Users/richardmorris/Desktop/Repos/APIs-and-JSON-Exercise/APIsAndJSON/obj/Debug/net6.0/refint/APIsAndJSON.dll
+/Users/richardmorris/Desktop/Repos/APIs-and-JSON-Exercise/APIsAndJSON/obj/Debug/net6.0/APIsAndJSON.pdb
+/Users/richardmorris/Desktop/Repos/APIs-and-JSON-Exercise/APIsAndJSON/obj/Debug/net6.0/APIsAndJSON.genruntimeconfig.cache
+/Users/richardmorris/Desktop/Repos/APIs-and-JSON-Exercise/APIsAndJSON/obj/Debug/net6.0/ref/APIsAndJSON.dll
